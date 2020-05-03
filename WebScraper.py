@@ -1,5 +1,5 @@
 '''
-Web scraper. Is currently in a file downloader config. To make this file more versatile you can use something called Regular Expressions to
+Web scraper. Is currently in a file downloader config. To make this file more versatile you can use  Regular Expressions to
 search the parsed html file. Thy can also be used to help format the download directory or data structure. 
 
 Currently this is set up to download roughly 1,000 white papers and text files that are on the hacking site. to limit this you can specify 
